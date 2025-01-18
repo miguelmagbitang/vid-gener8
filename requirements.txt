@@ -1,0 +1,7 @@
+openai
+wikipedia
+wikipedia-api
+gtts
+google-cloud-texttospeech
+moviepy==1.0.3
+pillow==9.5.0
